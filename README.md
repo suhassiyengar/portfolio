@@ -13,6 +13,6 @@ Built using **HTML & CSS**.
 ![Portfolio Screenshot](screenshot.png)
 
 ## 👤 Author
-**Suhas S. Iyengar**  
+**Suhas Sreenath Iyengar**  
 - [LinkedIn](https://www.linkedin.com/in/suhas-sreenath-iyengar-5994aa365/)  
 - [GitHub](https://github.com/suhassiyengar)
